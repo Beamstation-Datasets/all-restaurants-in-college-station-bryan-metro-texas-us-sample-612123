@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Multi-city restaurant dataset for College Station-Bryan (Metro), Texas, covering College Station and Bryan. Covers the full metropolitan dining ecosystem of a growing metropolitan dining market. Filtered by the Restaurants category group with ratings, review analytics, competitive positioning, and contact information. Refreshed weekly.",
+  "config_name": "All Restaurants in College Station-Bryan (Metro), Texas, US",
+  "export_job_id": "ce328242-2721-4237-8cc9-7af6e399c081",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 612123,
+  "location_name": "College Station-Bryan, TX",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-college-station-bryan-metro-texas-us-sample-612123",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/612123/beamstation_612123_restaurants-us-collegestationbryantx_SAMPLE_DIST.csv",
+  "sample_pct": 5.69,
+  "sample_records": 25,
+  "sample_sha256": "c4e89730799122ec047a6504f278e8d198912fa665b7832a74d333e089562b16",
+  "sample_size_bytes": 115354,
+  "total_records": 439,
+  "updated_at": "2026-03-31T16:44:18.113064+00:00"
+}
