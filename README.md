@@ -1,6 +1,6 @@
 # All Restaurants in College Station-Bryan (Metro), Texas, US
 
-> Free BeamStation sample export with 25 rows and masked direct-contact fields.
+> Free BeamStation sample export with 48 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `612123` |
 | Location | College Station-Bryan, TX |
 | Category | Restaurants |
-| Full dataset size | 439 records |
-| Free sample size | 25 records (5.69%) |
-| Last export | 2026-03-31T16:44:18.113064+00:00 |
+| Full dataset size | 489 records |
+| Free sample size | 48 records (9.82%) |
+| Last export | 2026-04-14T17:39:17.097319+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-college-station-bryan-metro-texas-us-sample-612123/releases/download/sample-latest/beamstation_612123_restaurants-us-collegestationbryantx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
