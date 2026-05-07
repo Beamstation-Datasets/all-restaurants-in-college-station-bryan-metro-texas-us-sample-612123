@@ -1,12 +1,12 @@
 {
-  "export_job_id": "1cfb10c9-4a03-450e-8023-894bfbc372ab",
+  "export_job_id": "048e5991-2d80-428d-94d1-36d6a70648b4",
   "id_short": 612123,
-  "published_at": "2026-04-29T07:48:51Z",
+  "published_at": "2026-05-07T19:20:53Z",
   "repo_name": "all-restaurants-in-college-station-bryan-metro-texas-us-sample-612123",
   "sample_asset_name": "beamstation_612123_restaurants-us-collegestationbryantx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/612123/beamstation_612123_restaurants-us-collegestationbryantx_SAMPLE_DIST.csv",
-  "sample_records": 46,
-  "sample_sha256": "d107c0b94e606a7da7f42a359c5d1306bc2d715145d257f224e4d5d646ed4794",
-  "sample_size_bytes": 177559,
-  "total_records": 461
+  "sample_records": 51,
+  "sample_sha256": "e6206de94b7c3119475228e9c5c816b78077ad6ea23933bf5d81f06651807b98",
+  "sample_size_bytes": 199799,
+  "total_records": 511
 }
